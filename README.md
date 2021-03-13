@@ -1,4 +1,4 @@
-# Кадровое агенство
+# Кадровое агентство
 
 <img src="https://github.com/BeautifulDirt/recruitment_agency/blob/master/intro.jpg" data-canonical-src="https://github.com/BeautifulDirt/recruitment_agency/blob/master/intro.jpg" width="640" height="320" />
 
